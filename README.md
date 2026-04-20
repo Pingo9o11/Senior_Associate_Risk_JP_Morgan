@@ -39,9 +39,9 @@ Random Forest delivered the most balanced overall performance, combining strong 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Pingo9o11/JPMorgan_Project.git>
+   git clone <https://github.com/Pingo9o11/Senior_Associate_Risk_JP_Morgan.git>
 
-2. cd JPMorgan_Project
+2. cd Senior_Associate_Risk_JP_Morgan
 
 3. pip install -r requirements.txt
 
